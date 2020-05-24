@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="todo">TODO</string>
+    <string name="login_successful">Login Successful!</string>
+    <string name="welcome_to_kotlin_world">Welcome to Kotlin World!</string>
+    <string name="click_here_to_login">CLICK HERE TO LOGIN</string>
+</resources>
